@@ -1,12 +1,12 @@
 # 🚀 Rocket Design & Simulation – OpenRocket
 
-This repository showcases a complete rocket design and simulation project developed using **OpenRocket** as part of the **India Space Lab Winter Internship Program**. The project focuses on aerodynamic stability, motor performance, and recovery system analysis for a single-stage rocket powered by a **J90W-14 motor**.
+This repository showcases a complete rocket design and simulation project developed using **OpenRocket** as part of the **India Space Lab Summer Internship Program**. The project focuses on aerodynamic stability, motor performance, and recovery system analysis for a single-stage rocket powered by a **J90W-14 motor**.
 
 ---
 
 ##  Internship Context
 
-This project was developed during the **India Space Lab Winter Internship**, where I explored rocket design principles, propulsion systems, and simulation tools. The goal was to design a stable, recoverable rocket and analyze its flight characteristics using OpenRocket.
+This project was developed during the **India Space Lab Summer Internship**, where I explored rocket design principles, propulsion systems, and simulation tools. The goal was to design a stable, recoverable rocket and analyze its flight characteristics using OpenRocket.
 
 ---
 
