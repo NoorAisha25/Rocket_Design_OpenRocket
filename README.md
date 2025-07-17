@@ -86,7 +86,8 @@ Rocket_Design_OpenRocket/ │ ├── Rocket_Info.pdf               # Detailed
 
 ## 📸 Rocket Preview
 
-![Rocket Render](photo_studio/rendered_rocket.png)
+<img width="1920" height="961" alt="Rendered_Rocket" src="https://github.com/user-attachments/assets/16a2c770-3b07-48f9-9711-e868862b1751" />
+
 
 ---
 
