@@ -95,7 +95,7 @@ Rocket_Design_OpenRocket/ │ ├── Rocket_Info.pdf               # Detailed
 
 - [OpenRocket](https://openrocket.info/)
 - [ThrustCurve.org](https://www.thrustcurve.org/)
-- [India Space Lab](https://indiaspacelab.in/)
+- [India Space Lab](https://isl.ac.in/)
 
 ---
 
